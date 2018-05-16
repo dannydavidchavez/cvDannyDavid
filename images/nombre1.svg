@@ -1,0 +1,17 @@
+<svg width="272" height="58" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="60" width="274" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="34.9" x="48.5" stroke-width="0" stroke="#62612C" fill="#A98E49">Danny David</text>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="45.9" x2="235.5" y1="46.9" x1="4.5" stroke-width="1.5" stroke="#6F5C2A" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_3" y2="55.9" x2="32.5" y1="6.9" x1="33.5" stroke-width="1.5" stroke="#6F5C2A" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="51.9" x2="269.5" y1="51.9" x1="43.5" stroke-width="1.5" stroke="#62612C" fill="none"/>
+ </g>
+</svg>
